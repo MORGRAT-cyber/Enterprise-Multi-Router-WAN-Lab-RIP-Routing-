@@ -61,8 +61,10 @@ This provides redundancy and multi-path routing.
 
 
 WEB browser checking 
-![Web Browser Checking](web-browser.png)
-![Web Browser Checking](web-browser.png)
+![Web Browser Checking]<img width="1900" height="1021" alt="Screenshot 2025-12-23 220114" src="https://github.com/user-attachments/assets/9be8e772-29cc-494f-b6a9-f3a83243aef4" />
+
+![Web Browser Checking]<img width="1915" height="901" alt="Screenshot 2025-12-23 220058" src="https://github.com/user-attachments/assets/0fc75ba0-f0da-440c-a580-2318abee87bf" />
+
 
 
 🎯 Summary
