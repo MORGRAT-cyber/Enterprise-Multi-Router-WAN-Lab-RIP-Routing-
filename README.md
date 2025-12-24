@@ -45,7 +45,8 @@ This provides redundancy and multi-path routing.
 
 (Make sure each router has correct next-hop.)
 
-![server1 to LAN2 Ping](ping-1.png)
+![server1 to LAN2 Ping](ping-1.png<img width="1884" height="861" alt="Screenshot 2025-12-23 221643" src="https://github.com/user-attachments/assets/a5f92b0e-2e6e-4c5a-a37c-351bb2b1711a" />
+)
 ![server2 to LAN3 Ping](ping-2.png)
 ![server3 to LAN4 Ping](ping-3.png)
 ![server4 Router Ping](ping-4.png)
